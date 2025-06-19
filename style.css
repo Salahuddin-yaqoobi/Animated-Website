@@ -102,6 +102,7 @@ h2{
     align-items: center;
     justify-content: space-between;
     padding: 20px 120px;
+    margin-top: 200px;
     
 }
 .section1bottom img{
@@ -120,6 +121,7 @@ h2{
     padding: 30px 120px;
     gap: 50px;
     font-family: japan;
+    margin-top: 300px;
 }
 .services h3{
     font-size: 40px;
